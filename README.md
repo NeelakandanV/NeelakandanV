@@ -24,6 +24,11 @@ Here's a quick overview of my skill set:
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005CDB?style=flat&logo=mysql&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  ![Postman Logo](https://www.postman.com/postman-docs/assets/postman-logo-1.svg)
+  ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+  ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+  ![Netlify Logo](https://www.netlify.com/img/press/logos/netlify-logo.svg)
+  ![Render Logo](https://render.com/static/images/logo.svg)
 
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or just want to connect!
