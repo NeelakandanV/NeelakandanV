@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Neelakandan Venkatesan
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=NeelakandanV&label=Profile%20Views&color=0e75b6&style=flat" alt="NeelakandanV" /></p>
+
 I'm a MERN Fullstack Developer passionate about building dynamic and responsive web applications.  I love turning ideas into reality through code!
 
 You can know more about me on [my Portfolio](https://neelakandanv.netlify.app)
