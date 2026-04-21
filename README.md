@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=NeelakandanV&label=Profile%20Views&color=0e75b6&style=flat" alt="NeelakandanV" /></p>
 
-I'm a MERN Fullstack Developer having 0.8 years of experince, passionate about building dynamic and responsive web applications.  I love turning ideas into reality through code!
+I'm a MERN Fullstack Developer having 1+ years of experince, passionate about building dynamic and responsive web applications.  I love turning ideas into reality through code!
 
 You can know more about me on [my Portfolio](https://neelakandanv.netlify.app)
 
